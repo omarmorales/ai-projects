@@ -1,0 +1,23 @@
+# Ignore the virtual environment folder
+ai_projects_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore other unnecessary files
+*.log
+*.pot
+*.py[co]

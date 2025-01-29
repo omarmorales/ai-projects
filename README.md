@@ -6,11 +6,11 @@ This project uses Python, OpenCV, and MediaPipe to detect and count push-ups in 
 
 1. Create a virtual environment:
 ```bash
-virtualenv push_up_env
+virtualenv ai_projects_env
   ```
 2. Activate the virtual environment:
 ```bash
-source push_up_env/bin/activate
+source ai_projects_env/bin/activate
 ```
 3. Install dependencies:
 ```bash
